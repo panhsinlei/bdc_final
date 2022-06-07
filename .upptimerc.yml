@@ -13,14 +13,16 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: MLB
     url: https://www.mlb.com
-  - name: CPBL
-    url: https://www.cpbl.com.tw
   - name: Shopee
     url: https://shopee.tw
   - name: Youtube
     url: https://www.youtube.com
   - name: PTT
     url: https://term.ptt.cc
+  - name: CPBL
+    url: https://www.cpbl.com.tw
+  - name: ELTA
+    url: https://eltott.tv/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
