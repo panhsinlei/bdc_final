@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 154,
-    "timeWeek": 280,
+    "timeWeek": 240,
     "timeMonth": 280,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 177,
-    "timeWeek": 237,
+    "timeWeek": 226,
     "timeMonth": 237,
     "timeYear": 237,
     "dailyMinutesDown": {}
@@ -78,18 +78,20 @@
     "url": "https://www.mlb.com",
     "icon": "https://favicons.githubusercontent.com/www.mlb.com",
     "slug": "mlb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 222,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
-    "dailyMinutesDown": {}
+    "time": 597,
+    "timeDay": 159,
+    "timeWeek": 269,
+    "timeMonth": 597,
+    "timeYear": 597,
+    "dailyMinutesDown": {
+      "2022-06-14": 0
+    }
   },
   {
     "name": "Shopee",
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 1372,
     "timeDay": 1911,
-    "timeWeek": 1372,
+    "timeWeek": 1365,
     "timeMonth": 1372,
     "timeYear": 1372,
     "dailyMinutesDown": {}
@@ -122,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 217,
-    "timeWeek": 305,
+    "timeWeek": 273,
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {}
@@ -140,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 87,
     "timeDay": 104,
-    "timeWeek": 87,
+    "timeWeek": 95,
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {}
@@ -162,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 128,
+      "2022-06-14": 864,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
@@ -189,7 +191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 128,
+      "2022-06-14": 864,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
